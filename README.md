@@ -6,6 +6,7 @@ I have a Header, Nav, and Footer, and more. I believe that i used these tags cor
 X
 I utilised some elements of the CSS flexbox in my navbar, but I was unable to utilise it to complete the navbar to my liking.
 All image elements are correctly implemented with accurate file paths.
+I was able to utilise the absolute and relative positioning features to set text boxes across from each other on the page.
 
 I created a "Back to top" button at the bottom of the page, to go back to the Navbar at the top of the page.
 I ended up managing to fix the hover for the contact us button at the bottom to highlight it with a lovely tomato colour. Very thematic!
@@ -15,5 +16,3 @@ I made an attempt to change the hyperlinks. I wanted them to look less like hype
 I changed the a tags to p tags on these elements to make a start, but it broke my entire functionality of the website, and I was unsure on why.
 
 I also wanted to remove the white spaces I have in between some areas, I couldn't figure out how to without using the \* tag in styles, which made the whole web page more densely packed instead of just the gaps I had in the background.
-
-I was unable to utilize CSS absolute positioning properly, so I gave up.
