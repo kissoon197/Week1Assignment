@@ -8,3 +8,7 @@ I made an attempt to change the hyperlinks. I wanted them to look less like hype
 I changed the a tags to p tags on these elements to make a start, but it broke my entire functionality of the website, and I was unsure on why.
 
 I also wanted to remove the white spaces I have in between some areas, I couldn't figure out how to without using the \* tag in styles, which made the whole web page more densely packed instead of just the gaps I had in the background.
+
+I created a "Back to top" button at the bottom of the page, to go back to the Navbar at the top of the page.
+
+I ended up managing to fix the hover for the contact us button at the bottom to highlight it with a lovely tomato colour. Very thematic!

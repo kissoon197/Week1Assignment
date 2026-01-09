@@ -34,7 +34,6 @@ li {
   font-size: 30px;
   list-style-type: none;
   max-width: 410px;
-  color: white;
   background-color: grey;
   border: 10px solid red;
   padding: 5px;
@@ -58,14 +57,22 @@ li {
   font-size: 30px;
   list-style-type: none;
   max-width: 360px;
-  color: white;
   background-color: grey;
   border: 10px solid red;
   padding: 5px;
 }
 footer {
-  height: 200px;
+  height: 230px;
   background-color: lightblue;
   border: 5px solid black;
   padding: 5px;
+}
+.BackToTop {
+  margin-top: 5px;
+  margin-left: 48%;
+  padding: 5px;
+}
+
+button:hover {
+  background-color: tomato;
 }
