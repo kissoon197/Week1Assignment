@@ -1,0 +1,71 @@
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.navbar {
+  display: flex;
+  background-color: tomato;
+  border: 5px solid black;
+}
+
+li {
+  padding: 10px;
+}
+.Tomatoes {
+  background: url("https://snaped.fns.usda.gov/sites/default/files/styles/crop_ratio_7_5/public/seasonal-produce/2018-05/tomatoes.jpg.webp?itok=_S4tzH4T");
+  height: 1080px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Tomatoes p {
+  font-size: large;
+  max-width: 300px;
+  color: white;
+  background-color: brown;
+  border: 10px solid red;
+  padding: 5px;
+}
+.TomatoesLink {
+  font-size: 30px;
+  list-style-type: none;
+  max-width: 410px;
+  color: white;
+  background-color: grey;
+  border: 10px solid red;
+  padding: 5px;
+}
+.Merch {
+  background: url("https://middleclassfancy.com/cdn/shop/files/tomato-t-shirttomato-t-shirtmiddle-class-fancy-679214.jpg?v=1744999165&width=1365");
+  height: 1080px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Merch p {
+  font-size: large;
+  max-width: 300px;
+  color: white;
+  background-color: brown;
+  border: 10px solid red;
+  padding: 5px;
+}
+.MerchLink {
+  font-size: 30px;
+  list-style-type: none;
+  max-width: 360px;
+  color: white;
+  background-color: grey;
+  border: 10px solid red;
+  padding: 5px;
+}
+footer {
+  height: 200px;
+  background-color: lightblue;
+  border: 5px solid black;
+  padding: 5px;
+}
